@@ -1,24 +1,7 @@
 # router
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##如果没有安装router需先安装router
+yarn add vue-router
+npm install vue-router
+##创建router的五个步骤
+1.导入路由模块
